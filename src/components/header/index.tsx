@@ -11,8 +11,8 @@ const Header = () => {
           </Link>
         </li>
         <li className='cursor-pointer'>
-          <Link href={'/charts'}>
-            CHARTS
+          <Link href={'/mems'}>
+            MEMS
           </Link>
         </li>
       </ul>
